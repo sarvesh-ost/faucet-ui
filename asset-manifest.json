@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/faucet-ui/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/faucet-ui/static/js/main.8248bac8.chunk.js",
+    "main.js.map": "/faucet-ui/static/js/main.8248bac8.chunk.js.map",
+    "runtime~main.js": "/faucet-ui/static/js/runtime~main.9b230983.js",
+    "runtime~main.js.map": "/faucet-ui/static/js/runtime~main.9b230983.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/faucet-ui/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e82d5c13.chunk.js": "/faucet-ui/static/js/2.e82d5c13.chunk.js",
+    "static/js/2.e82d5c13.chunk.js.map": "/faucet-ui/static/js/2.e82d5c13.chunk.js.map",
+    "index.html": "/faucet-ui/index.html",
+    "precache-manifest.3103753c68e1439e9f6bcf2ffbd7a630.js": "/faucet-ui/precache-manifest.3103753c68e1439e9f6bcf2ffbd7a630.js",
+    "service-worker.js": "/faucet-ui/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/faucet-ui/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.8ef63b32.chunk.css.map": "/faucet-ui/static/css/main.8ef63b32.chunk.css.map"
+  }
+}
